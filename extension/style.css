@@ -1,0 +1,43 @@
+:root:root:root:root .ProfileCanopy-headerBg,
+:root:root:root:root .ProfileSidebar,
+:root:root:root:root .dashboard-right,
+:root:root:root:root .dashboard-left {
+  display: none;
+}
+
+:root:root:root:root .pushstate-spinner {
+  position: absolute;
+  left: 0;
+}
+
+:root:root:root:root .bird-topbar-etched {
+  display: none !important;
+}
+
+:root:root:root:root .content-main {
+  float: none;
+  margin: 0 auto;
+}
+
+:root:root:root:root .nav-extras,
+:root:root:root:root .global-nav [role=navigation] {
+  float: none;
+}
+
+:root:root:root:root .ProfileCanopy--large,
+:root:root:root:root .ProfileCanopy--large .ProfileCanopy-header {
+  height: 20px !important;
+}
+
+:root:root:root:root .ProfileCanopy-avatar {
+  display: none;
+}
+
+:root:root:root:root .ProfileNav-item--userActions {
+  position: static !important;
+  float: none !important;
+}
+
+:root:root:root:root .ProfileNav-item.ProfileNav-item--userActions {
+  display: none;
+}
